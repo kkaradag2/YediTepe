@@ -98,8 +98,26 @@ This means "P(x) if and only if Q(x)", that is:
 * ∀x(Human(x) ↔ Mortal(x))
   * Every human is mortal if and only if every mortal is human.
 
-*
+* ∀x(Even(x)↔DivisibleByTwo(x))
+  * Every number is even if and only if it is divisible by two.
 
+* ∀x(Bird(x)↔∃y(Human(y)∧Likes(y,x)))
+  * If x is a bird if and only if there exists a human who likes it.
+
+* ∀x(Human(x)↔∃y(Animal(y)∧Owns(x,y)))
+  * If x is a human if and only if there exists an animal that they own.
+
+* ∀x(Student(x)↔∃y(Course(y)∧Enrolls(x,y)))
+  * If x is a student if and only if there exists a course that they enroll in.
+
+* ∀x(Employee(x)↔∃y(Company(y)∧WorksFor(x,y)))
+  * If x is an employee if and only if there exists a company that they work for.
+
+* ∀x(Teacher(x)↔∃y(Student(y)∧Teaches(x,y)))
+  * If x is a teacher if and only if there exists a student that they teach.
+
+* ∀x(Bird(x)↔∃y(Animal(y)∧CanFly(x)))
+  * If x is a bird if and only if there exists an animal that can fly.
 
   
 
