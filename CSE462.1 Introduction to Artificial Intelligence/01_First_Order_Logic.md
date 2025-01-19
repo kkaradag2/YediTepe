@@ -119,6 +119,12 @@ This means "P(x) if and only if Q(x)", that is:
 * ∀x(Bird(x)↔∃y(Animal(y)∧CanFly(x)))
   * If x is a bird if and only if there exists an animal that can fly.
 
+* ∃x(Student(x)↔∃y(Course(y)∧EnrolledIn(x,y)))
+  * There exists a student if and only if there exists a course they are enrolled in.
+
+* ∀x[∀y(Animal(y)↔Likes(x,y))]
+  * for every x, if y is a animal if and only if x likes an animal.
+
   
 
   
