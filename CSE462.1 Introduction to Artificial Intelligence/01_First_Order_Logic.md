@@ -88,6 +88,11 @@ Its basic components are as follows;
  * ∀x [∃y (Person(y) ∧ Likes(x, y))] → ∃z Likes(z,x)
     * For every x, if y is a person and x likes y, there exists a person who likes x
 
+**P(x) ↔ Q(x)**
+This means "P(x) if and only if Q(x)", that is:
+* "If P(x) is true, then Q(x) must also be true."
+* "If Q(x) is true, then P(x) must also be true."
+
 
   
 
