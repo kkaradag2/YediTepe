@@ -11,7 +11,7 @@ Its basic components are as follows;
 - **Universal Quantifier (∀):** It means everyone or everything.
 - **Existence Quantifier (∃):** It means at least one.
 
-  ## SAMPLES 
+  **SAMPLES**
 
 * ∀x Human(x) → Mortal(x)
   * All humans are mortal.
