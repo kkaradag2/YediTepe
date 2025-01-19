@@ -96,7 +96,7 @@ This means "P(x) if and only if Q(x)", that is:
 **SAMPLE**
 
 * ∀x(Human(x) ↔ Mortal(x))
-  *Every human is mortal if and only if every mortal is human.
+  * Every human is mortal if and only if every mortal is human.
 
 *
 
